@@ -402,7 +402,7 @@ export const userRows = [
     img: "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?auto=compress&cs=tinysrgb&w=1600",
     lastName: "Reid",
     firstName: "Elnora",
-    email: "tuhkabapu@gmail.com",
+    email: "samsonosanyaolu@gmail.com",
     phone: "123 456 789",
     createdAt: "01.02.2023",
     verified: true,
